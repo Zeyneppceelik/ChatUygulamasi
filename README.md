@@ -69,10 +69,14 @@ Server’ı başlattıktan sonra Client penceresinde bağlantı kurarak mesajla�
 Sunucu başlatıldı...
 Client bağlandı: 127.0.0.1:5050
 > Mesaj alındı: "Merhaba Server!"
+> <img width="1111" height="494" alt="image" src="https://github.com/user-attachments/assets/e1a6801c-6e1d-4d2b-a4cc-2cf026dca7d5" />
+
 
 [CLIENT]
 Sunucuya bağlanıldı...
 > Mesaj gönderildi: "Merhaba Server!"
+> <img width="753" height="382" alt="image" src="https://github.com/user-attachments/assets/0ac5d160-7a58-47c7-80da-3b73d2132cfa" />
+
 
 🧱 Öğrenilen Kavramlar
 
